@@ -1,0 +1,17 @@
+#main {
+    background-image: url('../image/bb.jpg'); /* Replace with your image path */
+    background-size: cover; /* Cover the entire screen */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    color: white; /* Optional: for text color */
+  }
+   
+  .site-layout-content
+  {
+    background-color: rgba(255, 255, 255, 0);
+  }
